@@ -1,0 +1,34 @@
+Working directory:
+/home/oucs007/Code/Homework5
+
+Took 0.000000 ms to calc (serial) with n = 8
+Took 0.000000 ms to solve with n = 8, p = 1
+Took 0.000000 ms to solve with n = 8, p = 2
+Took 10.000000 ms to solve with n = 8, p = 4
+Took 60.000000 ms to solve with n = 8, p = 8
+Took 200.000000 ms to solve with n = 8, p = 16
+Took 0.000000 ms to calc (serial) with n = 16
+Took 0.000000 ms to solve with n = 16, p = 1
+Took 40.000000 ms to solve with n = 16, p = 2
+Took 100.000000 ms to solve with n = 16, p = 4
+Took 350.000000 ms to solve with n = 16, p = 8
+Took 1310.000000 ms to solve with n = 16, p = 16
+Took 0.000000 ms to calc (serial) with n = 32
+Took 120.000000 ms to solve with n = 32, p = 1
+Took 430.000000 ms to solve with n = 32, p = 2
+Took 970.000000 ms to solve with n = 32, p = 4
+Took 3240.000000 ms to solve with n = 32, p = 8
+Took 10270.000000 ms to solve with n = 32, p = 16
+Took 120.000000 ms to calc (serial) with n = 64
+Took 1350.000000 ms to solve with n = 64, p = 1
+Took 4360.000000 ms to solve with n = 64, p = 2
+Took 8790.000000 ms to solve with n = 64, p = 4
+Took 24570.000000 ms to solve with n = 64, p = 8
+Took 78560.000000 ms to solve with n = 64, p = 16
+Took 1730.000000 ms to calc (serial) with n = 128
+Took 14540.000000 ms to solve with n = 128, p = 1
+Took 48450.000000 ms to solve with n = 128, p = 2
+Took 82660.000000 ms to solve with n = 128, p = 4
+Took 204640.000000 ms to solve with n = 128, p = 8
+Took 680830.000000 ms to solve with n = 128, p = 16
+Took 24400.000000 ms to calc (serial) with n = 256

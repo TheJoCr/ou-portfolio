@@ -1,0 +1,6 @@
+Lmod has detected the following error: The following module(s) are unknown:
+"OpenMP"
+
+   Please check the spelling or version number. Also try "module spider ..."
+
+slurmstepd: error: *** JOB 12669008 ON c302 CANCELLED AT 2018-05-06T12:49:49 DUE TO TIME LIMIT ***
